@@ -1,82 +1,28 @@
-# 👋 Hi there, I'm Ahmed Mohsen Abdelsattar
-
-🎓 **Computer Science Undergraduate @ Zewail City of Science and Technology**  
-📊 **Specializing in Data Science & Artificial Intelligence**  
+### Hi there, I'm Ahmed Mohsen Abdelsattar
+🎓 Computer Science Undergraduate @ Zewail City of Science and Technology
+📊 Specializing in Data Science & Artificial Intelligence
 📍 Cairo, Egypt
 
----
 
-## 💼 About Me
+Skills: Python, C++, C#, JavaScript, SQL, R
 
-I'm a passionate student developer and data enthusiast driven by building intelligent and impactful systems. From AI-powered search engines to anomaly detection in cybersecurity, I love transforming data into real-world solutions. Currently exploring machine learning, full-stack web development, and scalable big data technologies.
+- 🔭 I’m currently working on this page. Building intelligent search engines, real-world ML solutions, and mentoring young coders. 
+- 🌱 I’m currently learning Advanced deep learning (transformers, GANs), distributed systems, and data engineering with Spark and Flink. 
+- 👯 I’m looking to collaborate on Open-source ML tools, AI research projects, and impactful data-driven platforms. 
+- 🤔 I’m looking for help with Scaling ML systems, cloud-based model deployment, and contributing to global AI initiatives. 
+- 💬 Ask me about Python, machine learning, data visualization, Power BI, AI search engines, and cybersecurity ML. 
+- 📫 How to reach me: LinkedIn • GitHub • ahmedazab05@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I used to be a fins swimmer with record times—and now I teach Python to kids as young as 7! 
 
----
 
-## 🔧 Technical Skills
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmed-Mohsen-2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mohsen-abdelsattar-206987203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@ahmedmohsen2005)  
 
-**Languages**  
-Python, C++, C#, JavaScript, SQL, R
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-**Web & Mobile**  
-HTML, CSS, Dart, Flutter, Kotlin, React
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-Mohsen-2005)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Frameworks & Tools**  
-NumPy, pandas, matplotlib, seaborn, OpenCV, scikit-learn, TensorFlow, PySpark, Docker, Git/GitHub, Microsoft Azure, Jupyter, Google Colab
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mohsen-2005&show_icons=true)  
 
-**Data Visualization & Analysis**  
-PowerBI, Tableau, Excel
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ahmed-Mohsen-2005)  
 
-**Big Data**  
-Hadoop, HDFS, MapReduce, Apache Spark (Py/Scala), Flink
-
----
-
-## 🚀 Featured Projects
-
-- 🔎 **[Multilingual AI Search Engine](https://github.com/Ahmed-Mohsen-2005/JandA-Express-search-engine.git)**  
-  AI-enhanced search platform with TF-IDF, BM25, Word2Vec, RNN, LSTM, and multilingual UI.
-
-- 🛡 **[Cybersecurity Anomaly Detection](https://github.com/Ahmed-Mohsen-2005/Cybersecurity-Anomaly-Detection)**  
-  ML model classifying threats like DDoS/DoS/MITM with 91.8% accuracy.
-
-- 📊 **[HR Attrition Analysis Dashboard](https://github.com/Ahmed-Mohsen-2005/HR-Attrition-Analysis-PowerBI-Dashboard)**  
-  Power BI dashboard for HR analytics and employee retention strategies.
-
-- 🛫 **[Airport Database Management System](https://github.com/Ahmed-Mohsen-2005/Airport-database-managment-system)**  
-  .NET and SQL-based platform for managing airport operations and scheduling.
-
----
-
-## 🏆 Achievements
-
-- 🥇 First Place – IEEE Victoris IOT Competition  
-- 🌍 Yale Young African Scholars Program (New York, 2022)  
-- 🏁 Top 10 Finalist – UNICEF Youth Challenge 3.0  
-- 🧠 Competed in ECPC 2024 – Ranked top 6% from 2400+ teams
-
----
-
-## 🧑‍🏫 Extracurriculars
-
-- 👨‍🏫 Python Trainer @ Mawaheb Academy (ages 7–18)  
-- 🎓 Junior TA @ Zewail City – Intro to Computer Networking  
-- 📣 IEEE Zewail City – Marketing Head & Event Organizer
-
----
-
-## 🌐 Connect With Me
-
-- [GitHub](https://github.com/Ahmed-Mohsen-2005)  
-- [LinkedIn](https://www.linkedin.com/in/ahmed-mohsen-abdelsattar-206987203/)  
-- 📬 Email: ahmedazab05@gmail.com
-
----
-
-## 🎯 Fun Fact
-
-I'm a fins swimmer 🏊‍♂️ who once broke records at Aviation Club and love teaching young minds how to code.
-
----
-
-_“Building the future, one line of code at a time.”_
-  
