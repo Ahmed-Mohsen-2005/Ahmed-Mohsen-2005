@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed Mohsen Abdelsattar
-🎓 Computer Science Undergraduate @ Zewail City of Science and Technology
-📊 Specializing in Data Science & Artificial Intelligence
-📍 Cairo, Egypt
+- 🎓 Computer Science Undergraduate @ Zewail City of Science and Technology
+- 📊 Specializing in Data Science & Artificial Intelligence
+- 📍 Cairo, Egypt
 
 
 Skills: Python, C++, C#, JavaScript, SQL, R
