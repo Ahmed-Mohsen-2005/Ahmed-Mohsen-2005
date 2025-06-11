@@ -12,8 +12,6 @@ Skills: Python, C++, C#, JavaScript, SQL, R
 - 🤔 I’m looking for help with Scaling ML systems, cloud-based model deployment, and contributing to global AI initiatives. 
 - 💬 Ask me about Python, machine learning, data visualization, Power BI, AI search engines, and cybersecurity ML. 
 - 📫 How to reach me: LinkedIn • GitHub • ahmedazab05@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I used to be a fins swimmer with record times—and now I teach Python to kids as young as 7! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmed-Mohsen-2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mohsen-abdelsattar-206987203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@ahmedmohsen2005)  
