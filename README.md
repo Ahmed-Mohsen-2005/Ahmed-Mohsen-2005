@@ -33,7 +33,7 @@ Currently exploring <em>machine learning</em>, <em>full-stack web development</e
   </tr>
   <tr>
     <td><strong>Web & Mobile</strong></td>
-    <td>HTML, CSS, Dart, Flutter, Kotlin, React</td>
+    <td>HTML, CSS, Dart, Flutter, Angular, React, .NET</td>
   </tr>
   <tr>
     <td><strong>Frameworks & Tools</strong></td>
