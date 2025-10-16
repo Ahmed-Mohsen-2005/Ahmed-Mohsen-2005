@@ -5,12 +5,6 @@
   <strong>📊 Specializing in Data Science & Artificial Intelligence</strong><br>
   📍 Cairo, Egypt
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Mohsen-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ahmed-Mohsen-2005?label=Followers&style=flat&color=green" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ahmed-Mohsen-2005?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/Ahmed-Mohsen-2005/Ahmed-Mohsen-2005?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits" />
-</p>
 
 <hr>
 
